@@ -26,7 +26,7 @@
 ### How To Run:
 
 #### **Step 1:** `Clone This repository`
-#### **Step 2: ** `pip install numpy`
-#### **Step 2: ** `python cleaner.py`
+#### **Step 2:** `pip install numpy`
+#### **Step 2:** `python cleaner.py`
 
 
