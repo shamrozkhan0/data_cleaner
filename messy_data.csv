@@ -1,0 +1,11 @@
+EmployeeID,Name,ExperienceYears,PerformanceScore,MonthlyHours,Salary
+E001,Ahsan,3,78,160,
+E002,Sara,5,,170,55000
+E003,Ali,abc,85,180,60000
+E004,Zara,10,92,,85000
+E005,Hamza,15,110,200,120000
+E006,Iqra,2,70,140,not disclosed
+E007,Usman,,65,300,40000
+E008,Maria,7,88,165,65000
+E009,Bilal,4,invalid,155,48000
+E010,Hira,1,60,130,30000
